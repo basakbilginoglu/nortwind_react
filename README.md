@@ -1,3 +1,5 @@
+Frontend tarafında react backend tarafında java kullanılarak basit bir e-ticaret sitesi oluşturuldu.Veritabanı olarak hazır nortwind veritabanı kullanıldı.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
